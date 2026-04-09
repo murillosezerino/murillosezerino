@@ -1,10 +1,10 @@
 # Murillo Sezerino
 
-**Fullstack Developer & Data Engineer · Python · Next.js · ETL · LLMs · RAG**
+**Fullstack Developer & Data Engineer · Do pipeline ao produto, do backend ao deploy**
 
-10 anos em fintech e logistica (Stone, Loggi, PagBank, Porto Vale) construindo infraestrutura de dados que transforma operacoes brutas em decisoes de negocio.
+Construo produtos digitais completos e infraestrutura de dados — pipelines ETL, modelos de credito, agentes de IA e aplicacoes web.
 
-Dominio tecnico com contexto real de credito, risco e operacoes, projeto a solucao certa antes de escrever a primeira linha de codigo.
+10 anos de experiencia em fintech e logistica (Stone, Loggi, PagBank, Porto Vale), com dominio tecnico e contexto real de credito, risco e operacoes.
 
 ---
 
@@ -49,6 +49,12 @@ AWS · Docker · GitHub Actions · Cloudflare R2
 | [etl-pipeline](https://github.com/murillosezerino/etl-pipeline) | Pipeline ETL end to end com 12k+ registros/mes. Carga em Parquet no Cloudflare R2 | Python · Pandas · boto3 · pytest |
 | [commerce-intelligence](https://github.com/murillosezerino/commerce-intelligence) | Segmentacao RFM e churn prediction para e-commerce com 15k pedidos | Python · PostgreSQL · Scikit-learn |
 | [analise-risco-credito](https://github.com/murillosezerino/analise-risco-credito) | Analise de risco de credito com machine learning | Python · Scikit-learn |
+
+### AI & Agents
+
+| Projeto | Descricao | Stack |
+|---|---|---|
+| [investment-research-agent](https://github.com/murillosezerino/investment-research-agent) | Sistema multiagente RAG para pesquisa de investimentos com 3 agentes especializados | Python · LangChain · ChromaDB · FastAPI · OpenAI |
 
 ### Web Development
 
