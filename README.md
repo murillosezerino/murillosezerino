@@ -1,12 +1,12 @@
 # Murillo Sezerino
 
-**Data Engineer · Analytics Engineer**  
+**Data Engineer & Analytics**  
 Python · SQL · dbt · Pandas · FastAPI · Docker · PostgreSQL
 
 ---
 
-Construo infraestrutura de dados de ponta a ponta — do pipeline ETL ao modelo de ML ao endpoint REST.  
-Background em finanças e operações (Loggi · Stone · PagBank · Porto Vale) que vira vantagem na hora de modelar dados de negócio.
+Pipelines, modelos e APIs construídas com contexto de negócio real.  
+Background em finanças, logística e operações (Loggi · Stone · PagBank · Porto Vale).
 
 ### Projetos em destaque
 
