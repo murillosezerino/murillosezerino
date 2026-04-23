@@ -23,4 +23,4 @@ Background em finanças, logística e operações (Loggi · Stone · PagBank · 
 
 ---
 
-📍 São José dos Campos, SP · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino)
+📍 São Paulo, SP · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino)
