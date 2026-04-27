@@ -33,4 +33,3 @@ Snowflake · Airflow · advanced dbt patterns · production-grade orchestration
 ---
 
 📍 São José dos Campos, SP · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · murillosze@gmail.com
-''
