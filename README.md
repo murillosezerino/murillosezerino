@@ -1,26 +1,36 @@
 # Murillo Sezerino
 
-**Data Engineer & Analytics**  
-Python · SQL · dbt · Pandas · FastAPI · Docker · PostgreSQL
+**Analytics Engineer · Data Engineer**
+Python · SQL · dbt · PostgreSQL · Pandas · Power BI · FastAPI
 
 ---
 
-Pipelines, modelos e APIs construídas com contexto de negócio real.  
-Background em finanças, logística e operações (Loggi · Stone · PagBank · Porto Vale).
+8+ years working with data in finance, operations and logistics — Loggi, Stone, PagBank, Porto Vale Consórcios.
+Currently focused on ETL pipelines, dbt modeling, BI reporting and applied ML, with delivery via FastAPI when models need to be consumed.
 
-### Projetos em destaque
+Background in business and operations is what shapes how I work: I translate operational pain into data solutions before writing the first line of code.
 
-| Projeto | Stack | Descrição |
-|---|---|---|
-| [etl-pipeline](link) | Python · Pandas · Parquet · R2 | Pipeline ETL end-to-end, 12k+ registros, carga particionada |
-| [credit-scoring](link) | XGBoost · LightGBM · SHAP · FastAPI | Stacking Ensemble AUC ~0.80, 150k registros |
-| [commerce-intelligence](link) | dbt · PostgreSQL · Scikit-Learn · Plotly | RFM + churn prediction, 15k pedidos |
-| [investment-research-agent](link) | LangChain · ChromaDB · FastAPI · Docker | Sistema multiagente RAG |
+### Featured projects
 
-### Stack principal
+| Project | Stack | What it explores |
+| --- | --- | --- |
+| [etl-pipeline](https://github.com/murillosezerino/etl-pipeline) | Python · Pandas · Parquet · R2 | End-to-end ETL with partitioned writes to object storage |
+| [credit-scoring](https://github.com/murillosezerino/credit-scoring) | XGBoost · LightGBM · CatBoost · SHAP · FastAPI | Stacking Ensemble for default prediction (AUC ~0.80, 150k Kaggle records) |
+| [commerce-intelligence](https://github.com/murillosezerino/commerce-intelligence) | dbt · PostgreSQL · Scikit-Learn · Plotly | RFM segmentation and churn prediction over synthetic retail data |
+| [investment-research-agent](https://github.com/murillosezerino/investment-research-agent) | LangChain · ChromaDB · FastAPI · Docker | Multi-agent RAG pipeline for investment research |
+| [analise-risco-credito](https://github.com/murillosezerino/analise-risco-credito) | Scikit-Learn · Pandas · Matplotlib | Comparative study of RF, GB and Logistic Regression for credit risk |
 
-`Python` `SQL` `dbt` `Pandas` `PostgreSQL` `Scikit-Learn` `XGBoost` `FastAPI` `Docker` `GitHub Actions` `Power BI`
+> The projects above are **technical studies** — focused exercises applying concepts to public or synthetic data. Production work I've done lives inside companies and isn't public. A more substantial project is in progress and will be added when ready.
+
+### Main stack
+
+`Python` `SQL` `dbt` `PostgreSQL` `Pandas` `SQLAlchemy` `Scikit-Learn` `XGBoost` `Power BI` `FastAPI` `Docker` `GitHub Actions` `AWS` `GCP`
+
+### Currently studying
+
+Snowflake · Airflow · advanced dbt patterns · production-grade orchestration
 
 ---
 
-📍 São Paulo, SP · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino)
+📍 São José dos Campos, SP · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · murillosze@gmail.com
+''
