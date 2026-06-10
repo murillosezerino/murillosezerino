@@ -1,35 +1,34 @@
 # Murillo Sezerino
 
-**Analytics Engineer · Data Engineer**
-Python · SQL · dbt · PostgreSQL · Pandas · Power BI · FastAPI
+**Engenheiro de Dados**
+Python · SQL · dbt · PostgreSQL · Parquet · FastAPI · Docker
 
 ---
 
-8+ years working with data in finance, operations and logistics — Loggi, Stone, PagBank, Porto Vale Consórcios.
-Currently focused on ETL pipelines, dbt modeling, BI reporting and applied ML, with delivery via FastAPI when models need to be consumed.
+Construo pipelines de dados do bruto ao consumo. Venho de finanças, crédito e operações (Loggi, Stone, PagBank, Porto Vale), então decido o que o dado precisa virar antes de pensar em como movê-lo.
 
-Background in business and operations is what shapes how I work: I translate operational pain into data solutions before writing the first line of code.
+Foco atual em ETL, modelagem com dbt, qualidade de dados e entrega via API quando o dado precisa ser consumido. A origem em análise de risco e logística molda meu jeito de trabalhar: traduzo dor operacional em solução de dados antes da primeira linha de código.
 
-### Featured projects
+### Projetos em destaque
 
-| Project | Stack | What it explores |
+| Projeto | Stack | O que resolve |
 | --- | --- | --- |
-| [etl-pipeline](https://github.com/murillosezerino/etl-pipeline) | Python · Pandas · Parquet · R2 | End-to-end ETL with partitioned writes to object storage |
-| [credit-scoring](https://github.com/murillosezerino/credit-scoring) | XGBoost · LightGBM · CatBoost · SHAP · FastAPI | Stacking Ensemble for default prediction (AUC ~0.80, 150k Kaggle records) |
-| [commerce-intelligence](https://github.com/murillosezerino/commerce-intelligence) | dbt · PostgreSQL · Scikit-Learn · Plotly | RFM segmentation and churn prediction over synthetic retail data |
-| [investment-research-agent](https://github.com/murillosezerino/investment-research-agent) | LangChain · ChromaDB · FastAPI · Docker | Multi-agent RAG pipeline for investment research |
-| [analise-risco-credito](https://github.com/murillosezerino/analise-risco-credito) | Scikit-Learn · Pandas · Matplotlib | Comparative study of RF, GB and Logistic Regression for credit risk |
+| [etl-pipeline](https://github.com/murillosezerino/etl-pipeline) | Python · Pandas · Parquet · R2 | ETL ponta a ponta com carga particionada em object storage |
+| [commerce-intelligence](https://github.com/murillosezerino/commerce-intelligence) | dbt · PostgreSQL · Scikit-Learn · Plotly | Segmentação RFM e previsão de churn com staging em dbt |
+| [credit-scoring](https://github.com/murillosezerino/credit-scoring) | XGBoost · LightGBM · CatBoost · FastAPI | Inadimplência com Stacking Ensemble, AUC próximo de 0.80 |
+| [investment-research-agent](https://github.com/murillosezerino/investment-research-agent) | LangChain · ChromaDB · FastAPI · Docker | Pipeline RAG multiagente para pesquisa de investimentos |
+| [analise-risco-credito](https://github.com/murillosezerino/analise-risco-credito) | Scikit-Learn · Pandas · Matplotlib | Comparação de RF, Gradient Boosting e Regressão Logística para risco |
 
-> The projects above are **technical studies** — focused exercises applying concepts to public or synthetic data. Production work I've done lives inside companies and isn't public. A more substantial project is in progress and will be added when ready.
+Os projetos acima aplicam os conceitos de ponta a ponta sobre dados públicos ou sintéticos. O trabalho de produção que fiz vive dentro das empresas e não é público. Um projeto de maior porte está em evolução e entra aqui quando estiver pronto.
 
-### Main stack
+### Stack principal
 
-`Python` `SQL` `dbt` `PostgreSQL` `Pandas` `SQLAlchemy` `Scikit-Learn` `XGBoost` `Power BI` `FastAPI` `Docker` `GitHub Actions` `AWS` `GCP`
+`Python` `SQL` `dbt` `PostgreSQL` `Parquet` `Pandas` `SQLAlchemy` `FastAPI` `Docker` `GitHub Actions` `Power BI` `AWS`
 
-### Currently studying
+### Estudando agora
 
-Snowflake · Airflow · advanced dbt patterns · production-grade orchestration
+Airflow · Snowflake · padrões avançados de dbt · orquestração e qualidade de dados em produção
 
 ---
 
-📍 São José dos Campos, SP · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · murillosze@gmail.com
+São José dos Campos, SP · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · murillosze@gmail.com
