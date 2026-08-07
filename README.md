@@ -1,34 +1,34 @@
 # Murillo Sezerino
 
-**Engenheiro de Dados**
+**Data Engineer**
 Python · SQL · dbt · PostgreSQL · Parquet · FastAPI · Docker
 
 ---
 
-Construo pipelines de dados do bruto ao consumo. Venho de finanças, crédito e operações (Loggi, Stone, PagBank, Porto Vale), então decido o que o dado precisa virar antes de pensar em como movê-lo.
+I build data pipelines end to end. I came from finance, credit and operations (Loggi, Stone, PagBank, Porto Vale), so I decide what the data needs to become before thinking about how to move it.
 
-Foco atual em ETL, modelagem com dbt, qualidade de dados e entrega via API quando o dado precisa ser consumido. A origem em análise de risco e logística molda meu jeito de trabalhar: traduzo dor operacional em solução de dados antes da primeira linha de código.
+Current focus: ETL, dbt modeling, data quality and API delivery. Ten years in risk analysis and logistics shape how I work: I translate an operational pain into a data solution before writing the first line of code.
 
-### Projetos em destaque
+### Featured projects
 
-| Projeto | Stack | O que resolve |
+| Project | Stack | What it solves |
 | --- | --- | --- |
-| [etl-pipeline](https://github.com/murillosezerino/etl-pipeline) | Python · Pandas · Parquet · R2 | ETL ponta a ponta com carga particionada em object storage |
-| [commerce-intelligence](https://github.com/murillosezerino/commerce-intelligence) | dbt · PostgreSQL · Scikit-Learn · Plotly | Segmentação RFM e previsão de churn com staging em dbt |
-| [credit-scoring](https://github.com/murillosezerino/credit-scoring) | XGBoost · LightGBM · CatBoost · FastAPI | Inadimplência com Stacking Ensemble, AUC próximo de 0.80 |
-| [investment-research-agent](https://github.com/murillosezerino/investment-research-agent) | LangChain · ChromaDB · FastAPI · Docker | Pipeline RAG multiagente para pesquisa de investimentos |
-| [analise-risco-credito](https://github.com/murillosezerino/analise-risco-credito) | Scikit-Learn · Pandas · Matplotlib | Comparação de RF, Gradient Boosting e Regressão Logística para risco |
+| [etl-pipeline](https://github.com/murillosezerino/etl-pipeline) | Python · Pandas · Parquet · R2 | End-to-end ETL with partitioned object-storage loads |
+| [commerce-intelligence](https://github.com/murillosezerino/commerce-intelligence) | dbt · PostgreSQL · Scikit-Learn · Plotly | RFM segmentation and churn prediction with dbt staging |
+| [credit-scoring](https://github.com/murillosezerino/credit-scoring) | XGBoost · LightGBM · CatBoost · FastAPI | Default prediction via stacking ensemble, AUC near 0.80 |
+| [investment-research-agent](https://github.com/murillosezerino/investment-research-agent) | LangChain · ChromaDB · FastAPI · Docker | Multi-agent RAG pipeline for investment research |
+| [analise-risco-credito](https://github.com/murillosezerino/analise-risco-credito) | Scikit-Learn · Pandas · Matplotlib | RF, Gradient Boosting and Logistic Regression compared for credit risk |
 
-Os projetos acima aplicam os conceitos de ponta a ponta sobre dados públicos ou sintéticos. O trabalho de produção que fiz vive dentro das empresas e não é público. Um projeto de maior porte está em evolução e entra aqui quando estiver pronto.
+The projects above apply the concepts end to end on public or synthetic data. The production work I have done lives inside client systems and is not public. A larger project is in progress and lands here once it is ready.
 
-### Stack principal
+### Core stack
 
 `Python` `SQL` `dbt` `PostgreSQL` `Parquet` `Pandas` `SQLAlchemy` `FastAPI` `Docker` `GitHub Actions` `Power BI` `AWS`
 
-### Estudando agora
+### Currently learning
 
-Airflow · Snowflake · padrões avançados de dbt · orquestração e qualidade de dados em produção
+Airflow · Snowflake · advanced dbt patterns · orchestration and data quality in production
 
 ---
 
-São José dos Campos, SP · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · murillosze@gmail.com
+São José dos Campos, Brazil · GMT-3, full overlap with US business hours · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · murillosze@gmail.com
