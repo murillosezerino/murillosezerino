@@ -31,4 +31,4 @@ Airflow · Snowflake · advanced dbt patterns · orchestration and data quality 
 
 ---
 
-São José dos Campos, Brazil · GMT-3, full overlap with US business hours · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · murillosze@gmail.com
+São José dos Campos, Brazil · GMT-3, full overlap with US business hours · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · contato@murillosezerino.com
