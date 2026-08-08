@@ -1,11 +1,11 @@
 # Murillo Sezerino
 
-**Data Engineer**
-Python · SQL · dbt · PostgreSQL · Parquet · FastAPI · Docker
+**Data Engineer & Analytics**
+Python · SQL · dbt · Pandas · FastAPI · Docker · PostgreSQL · AWS · Airflow
 
 ---
 
-I build data pipelines end to end. I came from finance, credit and operations (Loggi, Stone, PagBank, Porto Vale), so I decide what the data needs to become before thinking about how to move it.
+Data Engineer at CZ Lab. I build data pipelines end to end. I came from finance, credit and operations (Loggi, Stone, PagBank, Porto Vale), so I decide what the data needs to become before thinking about how to move it.
 
 Current focus: ETL, dbt modeling, data quality and API delivery. Ten years in risk analysis and logistics shape how I work: I translate an operational pain into a data solution before writing the first line of code.
 
@@ -23,12 +23,12 @@ The projects above apply the concepts end to end on public or synthetic data. Th
 
 ### Core stack
 
-`Python` `SQL` `dbt` `PostgreSQL` `Parquet` `Pandas` `SQLAlchemy` `FastAPI` `Docker` `GitHub Actions` `Power BI` `AWS`
+`Python` `SQL` `dbt` `Airflow` `PostgreSQL` `Parquet` `Pandas` `SQLAlchemy` `FastAPI` `Docker` `GitHub Actions` `Power BI` `AWS`
 
 ### Currently learning
 
-Airflow · Snowflake · advanced dbt patterns · orchestration and data quality in production
+Snowflake · advanced dbt patterns · orchestration and data quality in production
 
 ---
 
-São José dos Campos, Brazil · GMT-3, full overlap with US business hours · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · contato@murillosezerino.com
+São Paulo, Brazil · GMT-3, full overlap with US business hours · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · contato@murillosezerino.com
