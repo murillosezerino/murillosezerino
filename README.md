@@ -7,7 +7,7 @@ SQL · dbt · Python · PostgreSQL · dimensional modeling · data quality
 
 Analytics Engineer at CZ Lab. I build the transformation layer: from raw data to the reliable dimensional model the business can actually use. I came from finance, credit and operations (Loggi, Stone, PagBank), so I decide what the data needs to become before thinking about how to move it.
 
-Current focus: dimensional modeling, transformation with dbt, data testing and API delivery. Fourteen years turning data into decisions in risk analysis and logistics shape how I work: I translate an operational pain into a data solution before writing the first line of code.
+Current focus: dimensional modeling, transformation with dbt, data testing and API delivery. More than ten years turning data into decisions in risk analysis and logistics shape how I work: I translate an operational pain into a data solution before writing the first line of code.
 
 ### Featured projects
 
