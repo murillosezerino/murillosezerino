@@ -1,28 +1,30 @@
 # Murillo Sezerino
 
-**Analytics Engineer**
-SQL · dbt · Python · PostgreSQL · dimensional modeling · data quality
+**Software Engineer** · Python · Django · TypeScript · React · GraphQL · SQL
 
 ---
 
-I build the transformation layer: from raw data to the reliable dimensional model the business can actually use. I came from finance, credit and operations (Loggi, Stone, PagBank), so I decide what the data needs to become before thinking about how to move it.
+I work on a US healthcare SaaS (EHR and medical billing), fixing and shipping code across a Python/Django + MariaDB backend and a React + TypeScript + GraphQL patient portal. Most of my work sits where mistakes cost money: payments, billing and insurance remittance.
 
-Current focus: dimensional modeling, transformation with dbt, data testing and API delivery. More than six years turning data into decisions in risk analysis and logistics shape how I work: I translate an operational pain into a data solution before writing the first line of code.
+How I work: root cause first, with evidence in the code before any change. I measure before optimizing and roll out risky changes behind feature flags. Tests run through the real pipeline, not only mocks.
 
-### Featured projects
+Since 2022 I have also built and run production web apps and APIs for clients as an independent engineer. Before engineering, I spent a decade in finance, credit and logistics operations (Loggi, Stone, PagBank), so I build knowing what a wrong balance or a late delivery costs.
 
-| Project | Stack | What it solves |
+### Featured
+
+| Project | Stack | What it shows |
 | --- | --- | --- |
-| [commerce-intelligence](https://github.com/murillosezerino/commerce-intelligence) | dbt · Airflow · DuckDB/BigQuery · PostgreSQL | Retail data platform: incremental ingestion, staging to star schema, tests and lineage (in active rebuild, README separates what runs today from the target) |
-| [etl-pipeline](https://github.com/murillosezerino/etl-pipeline) | Python · Pandas · Parquet · boto3 · pytest | Incremental ETL with a data quality gate that stops bad data before the load, partitioned object-storage writes and idempotent reruns |
-| [credit-scoring](https://github.com/murillosezerino/credit-scoring) | LightGBM · SHAP · FastAPI · Docker | Default prediction with a calibrated probability and SHAP explanations, served through a REST API |
+| [investment-research-agent](https://github.com/murillosezerino/investment-research-agent) | Python · FastAPI · LangChain · ChromaDB · MCP · Docker | RAG pipeline with long-term memory, exposed through a REST API and an MCP server, tested end to end against a real vector store |
+| [credit-scoring](https://github.com/murillosezerino/credit-scoring) | Python · FastAPI · Docker · LightGBM · SHAP | ML model served as an API, with endpoint tests for valid input, validation errors and an unavailable model |
+| [etl-pipeline](https://github.com/murillosezerino/etl-pipeline) | Python · boto3 · Parquet · pytest | Idempotent incremental loads with a quality gate that stops bad data before it is written |
+| [biancakato.com](https://biancakato.com) *(client, private repo)* | Next.js · TypeScript · Node.js · Zod · Vitest | Production app: distributed rate limiting with fallback, bot filtering, CSP regression test in CI, server-side integrations |
 
-Each README has a decisions section: the trade-off behind every choice, not just what was built. The projects run on public or synthetic data, and each README says which. The production work I have done lives inside client systems and is not public.
+Each README has a decisions section: the trade-off behind each choice, not just what was built. Public projects run on public or synthetic data, and each README says which. My production work at my employer and for clients lives in private repositories.
 
-### Core stack
+### Stack
 
-`Python` `SQL` `dbt` `dimensional modeling` `data quality` `PostgreSQL` `DuckDB` `BigQuery` `Parquet` `Pandas` `FastAPI` `Docker` `GitHub Actions` `Power BI`
+`Python` `Django` `FastAPI` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `GraphQL` `Apollo` `MariaDB/MySQL` `PostgreSQL` `pytest` `Vitest` `Docker` `GitHub Actions`
 
 ---
 
-São José dos Campos, Brazil · GMT-3, full overlap with US business hours · [murillosezerino.com](https://murillosezerino.com) · [LinkedIn](https://linkedin.com/in/murillosezerino) · contato@murillosezerino.com
+Brazil · GMT-3, full overlap with US business hours · Open to remote roles · [murillosezerino.com](https://murillosezerino.com/en) · [LinkedIn](https://linkedin.com/in/murillosezerino) · contato@murillosezerino.com
