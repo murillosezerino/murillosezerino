@@ -94,9 +94,9 @@ languages:   Portuguese · English · Spanish
 | Project | What it is | Stack |
 |---|---|---|
 | **Kanagawa BJJ** <br><sub>🔒 private · client work</sub> | Management system for a jiu-jitsu academy: admin, teacher and student portals, public enrollment, and monthly-fee checkout with PIX and recurring card payments through Asaas. | TypeScript · NestJS · Prisma · PostgreSQL · Next.js · Docker |
-| **[Lady Laura Atelier](https://ladylauraatelier.vercel.app)** <br><sub>🔒 private · live site</sub> | Website for an artisanal patisserie: parallax landing, catalogs for confectionery, flowers and events, masonry gallery and WhatsApp on every call to action. | Next.js · React · TypeScript · Tailwind CSS |
+| **[Lady Laura Atelier](https://www.ladylauraatelier.com.br)** <br><sub>🔒 private · live site</sub> | Website for an artisanal patisserie: parallax landing, catalogs for confectionery, flowers and events, masonry gallery and WhatsApp on every call to action. | Next.js · React · TypeScript · Tailwind CSS |
 | **[biancakato.com](https://biancakato.com)** <br><sub>🔒 private · live site</sub> | Website for a tattoo artist with a filtered gallery, lightbox, before-and-after slider and WhatsApp booking. | Next.js · React · TypeScript · Tailwind CSS |
-| **[Nautacor](https://nautacor.vercel.app)** <br><sub>🔒 private · live site</sub> | Landing page for a client brand. | Next.js · React · TypeScript |
+| **[Nautacor](https://nautacor.com.br)** <br><sub>🔒 private · live site</sub> | Landing page for a client brand. | Next.js · React · TypeScript |
 | **[ONG Mãos Solidárias](https://github.com/murillosezerino/ong-maos-solidarias)** | Accessible single-page app (WCAG 2.1 AA) in plain HTML, CSS and JavaScript, deployed through GitHub Actions. | JavaScript · HTML · CSS · GitHub Pages |
 
 ### Data, APIs & AI
