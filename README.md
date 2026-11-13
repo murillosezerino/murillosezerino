@@ -103,10 +103,10 @@ languages:   Portuguese · English · Spanish
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[ETL Pipeline](https://github.com/murillosezerino/etl-pipeline)** | Multi-source ETL from raw data to partitioned Parquet on object storage, with a quality gate that blocks bad data and idempotent incremental loads by watermark. | Python · Pandas · Parquet · Cloudflare R2 · pytest · CI |
-| **[Credit Scoring](https://github.com/murillosezerino/credit-scoring)** | Default prediction with a stacking ensemble, SHAP explainability and serving through a REST API. | Python · XGBoost · LightGBM · CatBoost · FastAPI |
-| **[Investment Research Agent](https://github.com/murillosezerino/investment-research-agent)** | RAG pipeline with three roles (Researcher, Analyst, Advisor), a vector store and an MCP server, delivered through a REST API. | Python · LangChain · ChromaDB · FastAPI · Docker |
-| **[Commerce Intelligence](https://github.com/murillosezerino/commerce-intelligence)** | RFM segmentation and churn prediction over PostgreSQL, with dbt staging and a dashboard. | Python · SQL · PostgreSQL · dbt · Plotly |
+| **[ETL Pipeline](https://github.com/murillosezerino/etl-pipeline)** | Multi-source ETL from raw data to partitioned Parquet on object storage, with a quality gate that blocks bad data and idempotent incremental loads by watermark. Each run handles 12k records seeded with 2% duplicates and 1% invalid coordinates; 23 tests. | Python · Pandas · Parquet · Cloudflare R2 · pytest · CI |
+| **[Credit Scoring](https://github.com/murillosezerino/credit-scoring)** | Default prediction with a stacking ensemble, SHAP explainability and serving through a REST API. AUC ~0.80 on 150k records; 22 tests. | Python · XGBoost · LightGBM · CatBoost · FastAPI |
+| **[Investment Research Agent](https://github.com/murillosezerino/investment-research-agent)** | RAG pipeline with three roles (Researcher, Analyst, Advisor), a vector store and an MCP server with 4 tools, delivered through a REST API; 40 tests. | Python · LangChain · ChromaDB · FastAPI · Docker |
+| **[Commerce Intelligence](https://github.com/murillosezerino/commerce-intelligence)** | RFM segmentation and churn prediction over 2,000 customers and 15,000 orders in PostgreSQL, with dbt staging and a dashboard. | Python · SQL · PostgreSQL · dbt · Plotly |
 | **[Credit Risk Analysis](https://github.com/murillosezerino/analise-risco-credito)** | Comparison of Random Forest, Gradient Boosting and Logistic Regression for credit risk, evaluated by AUC and ROC with cross-validation. | Python · scikit-learn · Pandas · Matplotlib |
 
 ---
