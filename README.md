@@ -33,9 +33,9 @@ Before software I spent ten years in finance, credit and logistics (Loggi, Stone
 ```yaml
 name:        Murillo Sezerino
 role:        Software Engineer · Full Stack
-current:     Software Engineer @ Agristato (payments, billing, reporting)
+current:     Software Engineer @ Agristato (SaaS · payments, billing, reporting)
 stack:       Python · Django · GraphQL · Celery · PostgreSQL · React · TypeScript
-also:        FastAPI · Next.js · Go · ClickHouse · Docker · GitHub Actions
+also:        Django REST Framework · FastAPI · Next.js · pytest · Vitest · Docker · GitHub Actions
 background:  10 years in finance, credit and logistics (Loggi, Stone, PagBank)
 education:   BSc Computer Science (UNICSUL, in progress) · Executive MBA, Business Analytics (FGV)
 open_to:     Full-time · Remote · Hybrid · On-site (São Paulo area)
@@ -44,10 +44,11 @@ languages:   Portuguese · English · Spanish
 ```
 
 > **What I've shipped at work:**
-> - Idempotency keys for card payment flows, which ended duplicate charges after processor timeouts.
-> - Dashboard queries cut from 30 s timeouts to 20–30 ms with EXPLAIN-driven indexing and query refactoring.
-> - A fix for a critical authorization flaw in payment endpoints, followed by a security audit of the rest of the API.
-> - Relational data models and GraphQL APIs, from schema to resolvers and mutations, for new product features.
+> - Idempotency keys and HTTP timeouts in payment integrations, which ended duplicate charges after processor timeouts.
+> - Critical dashboard queries cut from 30 s timeouts to 20–30 ms with EXPLAIN and covering indexes in PostgreSQL.
+> - GraphQL APIs (queries and mutations) for a new billing automation feature, with data modeling, migrations and access control.
+> - Amount rounding standardized across every payment entry point (Stripe, Square, PaySimple).
+> - Heavy processing moved out of the web request into asynchronous Celery tasks.
 
 ---
 
@@ -56,33 +57,31 @@ languages:   Portuguese · English · Spanish
 ### 👨‍💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,go,postgres&perline=5" height="48" alt="Languages: Python, TypeScript, JavaScript, Go, SQL"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,postgres&perline=4" height="48" alt="Languages: Python, TypeScript, JavaScript, SQL"/>
 </p>
 
 ### ⚙️ Backend & APIs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,graphql,nodejs,nestjs&perline=5" height="48" alt="Backend: Django, FastAPI, GraphQL, Node.js, NestJS"/>
+  <img src="https://skillicons.dev/icons?i=django,graphql,fastapi&perline=3" height="48" alt="Backend: Django, GraphQL, FastAPI"/>
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" height="48" alt="Frontend: React, Next.js, Tailwind, HTML, CSS"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&perline=4" height="48" alt="Frontend: React, Next.js, HTML, CSS"/>
 </p>
 
-### 🗄️ Databases & Data
+### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma&perline=4" height="48" alt="Databases: PostgreSQL, MySQL/MariaDB, Redis, Prisma"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=2" height="48" alt="Databases: PostgreSQL, Redis"/>
 </p>
 
 ### 🚀 DevOps & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,vercel,cloudflare,git,linux&perline=8" height="48" alt="DevOps: Docker, GitHub Actions, AWS, GCP, Vercel, Cloudflare, Git, Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,git,linux&perline=6" height="48" alt="DevOps: Docker, GitHub Actions, AWS, Vercel, Git, Linux"/>
 </p>
 
 ---
