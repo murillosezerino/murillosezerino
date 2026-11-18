@@ -44,11 +44,11 @@ languages:   Portuguese · English · Spanish
 ```
 
 > **What I've shipped at work:**
-> - Idempotency keys and HTTP timeouts in payment integrations, which ended duplicate charges after processor timeouts.
-> - Critical dashboard queries cut from 30 s timeouts to 20–30 ms with EXPLAIN and covering indexes in PostgreSQL.
-> - GraphQL APIs (queries and mutations) for a new billing automation feature, with data modeling, migrations and access control.
-> - Amount rounding standardized across every payment entry point (Stripe, Square, PaySimple).
-> - Heavy processing moved out of the web request into asynchronous Celery tasks.
+> - Stopped customers from being charged twice when the payment provider was slow to respond.
+> - Made dashboard queries that timed out after 30 seconds return in 0.03 seconds by tuning the database (PostgreSQL).
+> - Built the foundation of a new automatic billing feature: data structure, APIs (GraphQL) and rules for who can access each record.
+> - Fixed a security flaw that allowed unauthorized access to payment functions, then checked the rest of the system for the same problem.
+> - Every change ships with automated tests (pytest and Vitest), and new features roll out gradually to reduce risk for customers.
 
 ---
 
